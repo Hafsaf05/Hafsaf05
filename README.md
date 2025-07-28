@@ -1,3 +1,5 @@
+<h1 align="center">Hey, I’m Hafsa 👩‍💻</h1>
+<p align="center">AI/ML Student • Builder • Code Chaos Engineer 🚀</p>
 👋 Hi, I’m @Hafsaf05
 - 👀 I’m interested in AI, ML, computer vision and building real-time creative tech.
 - 🌱 I’m currently learning deep learning, OpenCV, and MediaPipe.
