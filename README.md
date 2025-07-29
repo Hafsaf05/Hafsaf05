@@ -58,20 +58,16 @@
   </a>
 </p>
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafsa05&layout=compact" />
-  </div>
-  <div style="flex: 1; margin-left: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=hafsaf05&show_icons=true" />
-  </div>
-</div>
-
-
-
-
 Connect with me
 <p>
   <a href="https://www.linkedin.com/in/hafsa-fathima-602528348/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="mailto:hafsahffathima05@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=flat&logo=gmail" /></a>
   </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafsaf05&show_icons=true&locale=en&layout=compact" alt="hafsafathima" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafsaf05&show_icons=true&locale=en" alt="hafsafathima" /></p>
+
+
+
+
