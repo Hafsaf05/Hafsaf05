@@ -2,7 +2,7 @@
 <p align="center">AI/ML Student • Builder • Code Chaos Engineer 🚀</p>
 
 👋 Hi, I’m @Hafsaf05
-- 👀 I’m interested in AI, ML, computer vision and building real-time creative tech.
+- 👀 I’m interested in AI, ML, computer vision, CNN and building real-time creative tech.
 - 🌱 I’m currently learning deep learning, OpenCV, and MediaPipe.
 - 💞️ I’m looking to collaborate on innovative AI projects, especially ones involving machine learning and robotics.
 - 📫 Reach  me at: hafsahffathima05@gmail.com
@@ -60,7 +60,7 @@
 
 Connect with me
 <p>
-  <a href="https://www.linkedin.com/in/hafsa-fathima-602528348/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/hafsa-fathima05/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="mailto:hafsahffathima05@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=flat&logo=gmail" /></a>
   </p>
 
