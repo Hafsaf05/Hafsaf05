@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on innovative AI projects, especially ones involving machine learning and robotics.
 - 📫 Reach  me at: hafsahffathima05@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I built a robotic handwriting machine that writes in my own handwriting
+- ⚡ Fun fact: I built a wall climbing robot that cleans mirrors and vertical surfaces
 
  🛠Tech Stack
 <p align="left">
