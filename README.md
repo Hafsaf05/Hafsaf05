@@ -64,9 +64,13 @@ Connect with me
   <a href="mailto:hafsahffathima05@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=flat&logo=gmail" /></a>
   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafsaf05&show_icons=true&locale=en&layout=compact" alt="hafsafathima" /></p>
+<p align="center">
+  <img align = left src="https://github-readme-stats.vercel.app/api?username=hafsaf05&show_icons=true&theme=radical" alt="Hafsaa stats" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafsaf05&show_icons=true&locale=en" alt="hafsafathima" /></p>
+<p align="center">
+  <img align = center src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafsaf05&layout=compact&theme=radical" alt="Top languages" />
+</p>
 
 
 
